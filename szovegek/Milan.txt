@@ -1,8 +1,15 @@
 Én, a Bíboros – Életem a Középkorban
 Bevezető – Ki vagyok én?
-Én, Aurelius de Monte Sancto, Krisztus szolgája és az Anyaszentegyház bíborosa vagyok. Életemet a hit, a tudomány és a hatalom különös hármasa szövi át. Ifjúkoromban még nem sejtettem, hogy egyszer vörös bíborpalástot viselek majd, és hogy királyok, fejedelmek, sőt olykor még császárok is kikérik a tanácsomat. De az Úr útjai kifürkészhetetlenek.
+Én, [Kitalált név], Krisztus szolgája és a Keresztény Anyaszentegyház bíborosa vagyok. Életemet a hit, a tudomány és a hatalom különös hármasa szövi át. Fiatalkoromban még nem sejtettem, hogy egynap  majd bíboros leszek, és hogy királyok, fejedelmek, sőt olykor még császárok kegyetit is élvezhetem. De az Úr útjai kifürkészhetetlenek.
+
+<<<<<<< HEAD
 
 1. Öltözködésem – Mit árul el rólam a bíbor?
+
+
+=======
+1. Öltözködésem – Mit árul el rólam a bíbor?
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 A ruhám nem csupán öltözet, hanem rangom és méltóságom jelképe.
 
 Mit viselek?
@@ -25,7 +32,14 @@ A bíbor szín a hatalmat, a gazdagságot és a szentséget jelképezi.
 
 A nép szemében én vagyok az, aki közel áll Istenhez – és a királyokhoz is.
 
+<<<<<<< HEAD
+
 2. Környezetem – Hol élek?
+
+
+=======
+2. Környezetem – Hol élek?
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Milyen házban élek?
 Rómában, a Lateráni palota közelében álló kőből épült rezidenciámban lakom. A ház több szintes, udvarral, kápolnával és könyvtárral.
 
@@ -41,7 +55,14 @@ A város központja a Szent Péter-bazilika és a pápai palota.
 
 A kolostorok csendje és a piacok zaja egyszerre hatja át a mindennapokat.
 
+<<<<<<< HEAD
+
 3. Életmódom – Egy hétköznapom
+
+
+=======
+3. Életmódom – Egy hétköznapom
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Hogyan telik egy napom?
 Hajnalban imádsággal kezdek: laudes.
 
@@ -63,7 +84,14 @@ Könyveket olvasok: teológiát, filozófiát, olykor csillagászatot.
 
 A kertemben sétálok, ahol rózsák és gyógynövények nőnek.
 
+<<<<<<< HEAD
+
 4. Feladataim – Kinek tartozom engedelmességgel?
+
+
+=======
+4. Feladataim – Kinek tartozom engedelmességgel?
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Milyen munkát végzek?
 Részt veszek az egyház kormányzásában.
 
@@ -81,7 +109,14 @@ A bíborosok testülete azonban nagy hatalommal bír, így gyakran mi választju
 Ki függ tőlem?
 Püspökök, papok, szerzetesek, szolgák, írnokok – mind az én irányításom alatt állnak.
 
+<<<<<<< HEAD
+
 5. Ünnepek – Miért fontosak számunkra?
+
+
+=======
+5. Ünnepek – Miért fontosak számunkra?
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Milyen ünnepekre készülünk?
 Karácsony, Húsvét, Pünkösd, Mindenszentek.
 
@@ -97,7 +132,14 @@ A pápai misék fényűzőek, tele zenével, tömjénnel, énekkel.
 Miért fontosak?
 Az ünnepek erősítik a közösséget, és emlékeztetnek bennünket Isten kegyelmére.
 
+<<<<<<< HEAD
+
 6. Kötelezettségek és félelmek
+
+
+=======
+6. Kötelezettségek és félelmek
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Milyen adókat, szolgáltatásokat teljesítek?
 A birtokaim jövedelmének egy részét a pápai kincstárba utalom.
 
@@ -112,7 +154,14 @@ Egyházi viszályoktól, amelyek meggyengíthetik a hitet és a rendet.
 
 És legfőképp: hogy egyszer rossz döntést hozok, amelyért Isten előtt kell felelnem.
 
+<<<<<<< HEAD
+
 7. Viselkedés és emberi kapcsolatok
+
+
+=======
+7. Viselkedés és emberi kapcsolatok
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Hogyan viselkedünk egymással?
 A tisztelet és az alázat alapvető.
 
@@ -132,7 +181,14 @@ A hűség Istenhez és az Egyházhoz való ragaszkodás.
 
 A vallás az életünk középpontja.
 
+<<<<<<< HEAD
+
 8. Szabályok és hagyományok
+
+
+=======
+8. Szabályok és hagyományok
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Milyen szabályok szerint élünk?
 A kánonjog határozza meg az egyházi életet.
 
@@ -147,6 +203,10 @@ A lakomákon imával kezdünk és zárunk.
 
 A tudósokkal való viták gyakoriak – a hit és értelem összhangját keressük.
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 39d890891afa2bf9fe857679bdfbeb11179a3f59
 Fogalomtár (6–8 fogalom)
 Fogalom	Magyarázat
 Kánonjog	Az egyház törvényeinek összessége, amely meghatározza a papok és hívek életét.
@@ -157,6 +217,10 @@ Stóla	Keskeny, hosszú papi ruhadarab, amely a szentségek kiszolgáltatásakor
 Zarándok	Vallási célból útra kelő hívő.
 Kolostor	Szerzetesek lakóhelye, imádság és munka helyszíne.
 Bulla	Pápai pecséttel ellátott hivatalos okirat.
+
+
+
+
 Idővonal – 4–8 fontos középkori esemény
 Évszám	Esemény	Rövid magyarázat
 1054	Egyházszakadás	A keleti és nyugati egyház végleg különvált.
@@ -164,4 +228,5 @@ Idővonal – 4–8 fontos középkori esemény
 1215	IV. Lateráni zsinat	Fontos egyházi reformok és dogmák megerősítése.
 1347–1351	Fekete halál	Európa lakosságának harmadát elpusztító pestisjárvány.
 1378–1417	Nyugati egyházszakadás	Több pápa is igényt tartott a trónra.
-1453	Konstantinápoly eleste	A Bizánci Birodalom bukása, a középkor egyik lezáró 
+1453	Konstantinápoly eleste	A Bizánci Birodalom bukása, a középkor egyik lezáró eseménye.
+
