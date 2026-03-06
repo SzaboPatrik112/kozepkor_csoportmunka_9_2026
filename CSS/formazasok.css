@@ -2,7 +2,44 @@
     box-sizing: border-box;
 }
 body{
+    background-color: whitesmoke;
+}
+main{
+    width: 83%;
+    margin: auto;
+    border: 3px solid brown;
     background-color: bisque;
+}
+h1{
+    font-family: old english text mt, serif;
+}
+img{
+    width: 40%;
+    max-width: 1000px;
+    height: auto;
+}
+h2{
+    font-size: 90%;
+}
+header{
+    width: 99%;
+    margin: auto;
+    text-align: center;
+    border: 3px solid brown;
+}
+footer{
+    width: 99%;
+    margin: auto;
+    border: 3px solid brown;
+}
+nav{
+    text-align: center;
+    width: 99%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    border: 3px solid brown;
 }
 a{
     text-decoration: none;
