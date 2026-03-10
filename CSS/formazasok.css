@@ -1,22 +1,45 @@
 *{
     box-sizing: border-box;
 }
-body{
-    background-color: whitesmoke;
+body {
+  background-image: url("../kepek/hatter.png");
 }
 main{
     width: 83%;
     margin: auto;
+    max-width: 800px;
     border: 3px solid brown;
     background-color: bisque;
+}
+article{
+    width: 99%;
+    margin: auto;
+    text-align: center;
+    border: 3px solid brown;
+}
+.ezer{
+    display: grid;
+    grid-template-columns: 300px 1fr;
 }
 h1{
     font-family: old english text mt, serif;
 }
-img{
-    width: 40%;
+#kepegy{
+    width: 90%;
     max-width: 1000px;
     height: auto;
+    border: 3px solid brown; 
+}
+#cimegy{
+    border: 3px solid brown;
+}
+p{
+    padding: 5px;
+    border: 3px solid brown;
+}
+img{
+    padding: 10px;
+    width: 100%;
 }
 h2{
     font-size: 90%;
