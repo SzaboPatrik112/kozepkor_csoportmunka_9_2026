@@ -1,1 +1,14 @@
-/* Fogalomtár eérendezése, reszponzivitás */
+*{
+    box-sizing: border-box;
+}
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+main{
+    margin: auto;
+}
+body{
+    background-image: url("../kepek/hatter.png");
+}
