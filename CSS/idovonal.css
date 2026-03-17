@@ -1,1 +1,11 @@
+.esemenykeret{
+    
+}
+.esemeny{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+img{
+width: 100%;
+}
 /* Idővonal elrendezése, grid és reszponzivitás */
