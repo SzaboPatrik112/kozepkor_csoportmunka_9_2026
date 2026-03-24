@@ -10,11 +10,15 @@ width: 100%;
 }
 
 @media (max-width: 768px) {
-  .esemeny {
-    text-align: center;
-  }
-  .kep img {
-    max-width: 100%;
+  .menu {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background: #111;
+    flex-direction: column;
+    width: 200px;
+    display: none;
+    padding: 10px 0;
   }
 }
 
