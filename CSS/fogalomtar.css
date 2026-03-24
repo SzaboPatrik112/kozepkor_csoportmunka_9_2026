@@ -17,3 +17,16 @@ body{
 header{
     text-align: center;
 }
+
+@media (max-width: 768px) {
+  .menu {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background: #111;
+    flex-direction: column;
+    width: 200px;
+    display: none;
+    padding: 10px 0;
+  }
+}
