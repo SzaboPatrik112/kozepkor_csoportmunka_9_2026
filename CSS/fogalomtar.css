@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+article{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    border: 5px solid rgba(121, 59, 34, 0.99);
+}   
+main{
+    margin: auto;
+}
+body{
+    background-image: url("../kepek/hatter.png");
+}
+
+header{
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+  .menu {
+    position: absolute;
+    top: 60px;
+    right: 0;
+    background: #111;
+    flex-direction: column;
+    width: 200px;
+    display: none;
+    padding: 10px 0;
+  }
+}
