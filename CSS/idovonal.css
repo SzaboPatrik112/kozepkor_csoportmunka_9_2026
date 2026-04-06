@@ -8,6 +8,11 @@
 img{
 width: 100%;
 }
+footer{
+    width: 99%;
+    margin: auto;
+    border: 3px solid var(--szegelySzin);
+}
 
 @media (max-width: 768px) {
   .menu {
