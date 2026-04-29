@@ -1,5 +1,6 @@
 .esemenykeret{
-    
+    display: grid;
+    grid-template-columns: 1fr;
 }
 .esemeny{
     display: grid;
@@ -8,5 +9,16 @@
 img{
 width: 100%;
 }
+@media (max-width: 100%) {
+  .esemenykeret {
+    grid-template-columns: 1fr;
+  }
+  .esemeny{
+    grid-template-columns: 1fr 1fr;
+  }
+
+}
+
+
 
 /* Idővonal elrendezése, grid és reszponzivitás */
